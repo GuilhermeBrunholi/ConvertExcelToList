@@ -1,5 +1,1 @@
-# ConvertExcelToList
-# ConvertExcelToList
-# ConvertExcelToList
-# ConvertExcelToList
-# ConvertExcelToList
+Convert file .xls and .xlsx to list in c#
