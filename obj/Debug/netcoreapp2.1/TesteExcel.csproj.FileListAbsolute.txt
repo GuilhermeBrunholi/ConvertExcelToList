@@ -1,0 +1,11 @@
+C:\Users\guilherme.brunholi\Desktop\TesteExcel\bin\Debug\netcoreapp2.1\TesteExcel.deps.json
+C:\Users\guilherme.brunholi\Desktop\TesteExcel\bin\Debug\netcoreapp2.1\TesteExcel.runtimeconfig.json
+C:\Users\guilherme.brunholi\Desktop\TesteExcel\bin\Debug\netcoreapp2.1\TesteExcel.runtimeconfig.dev.json
+C:\Users\guilherme.brunholi\Desktop\TesteExcel\bin\Debug\netcoreapp2.1\TesteExcel.dll
+C:\Users\guilherme.brunholi\Desktop\TesteExcel\bin\Debug\netcoreapp2.1\TesteExcel.pdb
+C:\Users\guilherme.brunholi\Desktop\TesteExcel\obj\Debug\netcoreapp2.1\TesteExcel.csprojAssemblyReference.cache
+C:\Users\guilherme.brunholi\Desktop\TesteExcel\obj\Debug\netcoreapp2.1\TesteExcel.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.brunholi\Desktop\TesteExcel\obj\Debug\netcoreapp2.1\TesteExcel.AssemblyInfoInputs.cache
+C:\Users\guilherme.brunholi\Desktop\TesteExcel\obj\Debug\netcoreapp2.1\TesteExcel.AssemblyInfo.cs
+C:\Users\guilherme.brunholi\Desktop\TesteExcel\obj\Debug\netcoreapp2.1\TesteExcel.dll
+C:\Users\guilherme.brunholi\Desktop\TesteExcel\obj\Debug\netcoreapp2.1\TesteExcel.pdb
